@@ -1,0 +1,11 @@
+# Node modules
+node_modules
+
+# Removing environment configuration files
+.env
+
+# local log files
+log
+
+# vscode configurations
+.vscode
